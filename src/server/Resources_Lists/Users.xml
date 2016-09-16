@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF_8" standalone="no"?>
+<!DOCTYPE Stock_Exchangers SYSTEM "Stock_Exchangers.dtd">
+<Stock_Exchangers>
+  <Users>
+    <User name="admin" password="7bb483729b5a8e26f73e1831cde5b842"/>
+    <User name="test" password="f899139df5e1059396431415e770c6dd"/>
+  </Users>
+</Stock_Exchangers>

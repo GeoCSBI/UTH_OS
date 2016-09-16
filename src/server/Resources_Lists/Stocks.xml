@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF_8" standalone="no"?>
+<!DOCTYPE Stock_Exchangers SYSTEM "Stock_Exchangers.dtd">
+<Stocks>
+  <Stock_Details>
+    <Company_Name company_name="Test"/>
+    <Stock_Price stock_price="500$"/>
+    <Number_Of_Stocks number_of_stocks="1400"/>
+    <Stock_Phase percentage="50%" stock_phase="up"/>
+  </Stock_Details>
+</Stocks>
